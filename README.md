@@ -1,1 +1,1 @@
-# course-management
+# Institute-Management
